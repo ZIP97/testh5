@@ -1,6 +1,6 @@
-# Title     :  test
-# Objective :  by ZJP
-# Created by: Administrator
+# Title     :  test for R code
+# Objective :  null
+# Created by:  ZJP
 # Created on: 2018/5/16
 
 a <- rnorm(10)
