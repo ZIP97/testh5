@@ -5,9 +5,9 @@
 
 a <- rnorm(10)
 b <- rnorm(10)
-print("sin (a^2)")
-print(sin(a*a))
-print("a")
-print(a)
-
-plot(a, b)
+# print("sin (a^2)")
+# print(sin(a*a))
+# print("a")
+# print(a)
+#
+# plot(a, b)
